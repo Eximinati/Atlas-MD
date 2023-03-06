@@ -100,7 +100,6 @@
     "youtubedl-core": "^4.11.1"
   },
   "devDependencies": {
-    "@hapi/boom": "^10.0.0",
     "jimp": "^0.16.2",
     "pino": "^8.10.0",
     "qrcode-terminal": "^0.12.0"
