@@ -35,16 +35,5 @@
         "MONGODB": {
             "description": "Your MOngoDB URL. If you don't have any read PublicKeys.md to get a public MongoDB URL. Or copy paste it: mongodb+srv://fantox001:zjmbvgwr52@cluster0.qh05pl9.mongodb.net/?retryWrites=true&w=majority"
         }
-    },
-    "buildpacks": [
-        {
-            "url": "heroku/nodejs"
-        },
-        {
-            "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
-        },
-        {
-            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-        }
-    ]
+    }
   }
